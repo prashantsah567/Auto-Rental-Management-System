@@ -5,7 +5,7 @@ A 4-tiered Server-Client Auto Rental Management using C# and .NET Framework
 [CST4708-Prashant-Sah-Project1-Sprint#4-compressed.pdf](https://github.com/prashantsah567/Auto-Rental-Management-System/files/13378417/CST4708-Prashant-Sah-Project1-Sprint.4-compressed.pdf)
 
 
-![CST4708-Prashant-Sah-Project1-Sprint#4-compressed-59](https://github.com/prashantsah567/Auto-Rental-Management-System/assets/82275480/4007b2d1-722f-42f5-ab35-c37607406649)
+![CST4708-Prashant-Sah-Project1-Sprint#4-compressed-01](https://github.com/prashantsah567/Auto-Rental-Management-System/assets/82275480/4007b2d1-722f-42f5-ab35-c37607406649)
 ![CST4708-Prashant-Sah-Project1-Sprint#4-compressed-58](https://github.com/prashantsah567/Auto-Rental-Management-System/assets/82275480/afb6eb99-85e7-46c8-acfd-ecc0d493dc9f)
 ![CST4708-Prashant-Sah-Project1-Sprint#4-compressed-57](https://github.com/prashantsah567/Auto-Rental-Management-System/assets/82275480/c4c0318a-3a5f-4860-8efd-2c34a1a6fc57)
 ![CST4708-Prashant-Sah-Project1-Sprint#4-compressed-56](https://github.com/prashantsah567/Auto-Rental-Management-System/assets/82275480/0b6e697a-bf00-4984-a941-09754a0bcc2e)
