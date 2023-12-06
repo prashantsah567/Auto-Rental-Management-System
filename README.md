@@ -39,12 +39,5 @@ Detailed Document for this Project
 ![CST4708-Prashant-Sah-Project1-Sprint#4-compressed-32](https://github.com/prashantsah567/Auto-Rental-Management-System/assets/82275480/b19e775f-e15f-4b56-88ef-50b81293d5d1)
 ![CST4708-Prashant-Sah-Project1-Sprint#4-compressed-33](https://github.com/prashantsah567/Auto-Rental-Management-System/assets/82275480/61018b7a-85cc-47ed-9808-6541764c1f0e)
 
-
-
-
-
-
-
-
-
-
+Continue....
+(Kindly download the pdf version attached on the top for full document access)
